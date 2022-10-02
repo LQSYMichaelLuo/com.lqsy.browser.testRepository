@@ -1,1 +1,4 @@
-# com.lqsy.browser.testRepository
+# 我的测试库
+```
+用于我的安卓APP的配置文件以及其他文件
+```
